@@ -1,0 +1,3 @@
+appId: https://www.saucedemo.com/
+---
+- launchApp: "https://www.saucedemo.com/"

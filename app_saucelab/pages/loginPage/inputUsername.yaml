@@ -1,0 +1,5 @@
+appId: com.swaglabsmobileapp
+---
+- assertVisible: "Username"
+- tapOn: "Username"
+- inputText: ${USERNAME}

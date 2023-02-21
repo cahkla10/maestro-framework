@@ -1,0 +1,8 @@
+appId: com.swaglabsmobileapp
+---
+- assertVisible:
+    text: "test-LOGIN"
+    index: 1
+- tapOn:
+    text: "test-LOGIN"
+    index: 1

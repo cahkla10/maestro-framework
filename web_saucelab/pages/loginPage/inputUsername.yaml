@@ -1,0 +1,5 @@
+appId: https://www.saucedemo.com/
+---
+- tapOn:
+    id: "user-name"
+- inputText: ${USERNAME}

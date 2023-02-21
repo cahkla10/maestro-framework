@@ -1,0 +1,5 @@
+appId: https://www.saucedemo.com/
+---
+- assertVisible:
+    text: ${ERROR_MESSAGE}
+    enabled: true

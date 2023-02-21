@@ -1,0 +1,4 @@
+appId: https://www.saucedemo.com/
+---
+- tapOn:
+    id: "login-button"

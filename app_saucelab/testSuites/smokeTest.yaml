@@ -1,0 +1,5 @@
+appId: com.swaglabsmobileapp
+---
+- runFlow: ../testCase/loginCase/TC001_user_login_using_correct_credentials.yaml
+- runFlow: ../testCase/loginCase/TC002_user_login_using_empty_credentials.yaml
+- runFlow: ../testCase/loginCase/TC003_user_login_using_incorrect_credentials.yaml
